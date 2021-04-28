@@ -62,6 +62,6 @@ setInterval(async function() {
   }
 }, 20000);
 
-client.login(TOKEN) //Login
+client.login(https://discord.com/api/oauth2/authorize?client_id=835237514221584404&permissions=8&scope=bot) //Login
 
 process.on('unhandleRejection', console.error);
